@@ -1,0 +1,8 @@
+pages\CompletedPage.class
+pages\InformationPage.class
+pages\ProductsPage.class
+pages\LoginPage.class
+stepDefinitions\Login.class
+pages\YourCartPage.class
+pages\OverviewPage.class
+runner\TestRunner.class
